@@ -1,3 +1,7 @@
+## Author: Sean Mullan, 2023
+## University of Iowa
+
+
 import math
 
 import numpy as np
